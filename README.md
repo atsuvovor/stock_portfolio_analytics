@@ -12,7 +12,7 @@
 
 
 
-Abstract
+## Abstract
 
 --------
 
@@ -22,7 +22,7 @@ This project presents the development of an advanced stock portfolio analytics t
 
 
 
-Introduction
+## Introduction
 
 ------------
 
@@ -44,7 +44,7 @@ In conclusion, this project underscores the importance of integrating advanced a
 
 
 
-Description
+## Description
 
 ----------
 
@@ -184,7 +184,10 @@ The project yields several key outcomes:
 
  - Insights into portfolio performance under various market conditions, aiding in risk management and strategic planning.
 
-**Conclusion**
+
+--
+
+## onclusion
 
 The Stock Portfolio Analytics project successfully demonstrates the integration of advanced data analytics, statistical methods, and machine learning techniques to enhance portfolio management and investment decision-making. Through comprehensive data collection, preprocessing, and exploratory analysis, the project identified key market trends and influential factors affecting stock performance. By applying dimensionality reduction (PCA), clustering, correlation analysis, and Monte Carlo simulations, the tool effectively constructed diversified portfolios while providing robust assessments of risk, return, and expected performance.
 
