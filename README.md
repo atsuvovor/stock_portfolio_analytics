@@ -7,8 +7,8 @@
 
 >Master of Management in Artificial Intelligence,  
 
->Data Analytics and Reporting Professional | Machine Learning |
->Data science | Quantitative Analysis |French Bilingua  
+>Data Analytics and Reporting Professional | Machine Learning |  
+>Data science | Quantitative Analysis |French & English Bilingual  
 
 
 
