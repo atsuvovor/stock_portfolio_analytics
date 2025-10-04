@@ -11,7 +11,13 @@
 >Data science | Quantitative Analysis |French & English Bilingual  
 
 
+<div id="content-wrapper">
+    <div id="content">
+        <div class="cell markdown_cell" id="view-in-github">
+<a href="https://colab.research.google.com/github/atsuvovor/Projects/blob/main/Stock_Portfolio_Analytics_v1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+</div>  
 
+      
 ## Abstract
 
 --------
