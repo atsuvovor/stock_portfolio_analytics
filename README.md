@@ -192,7 +192,3 @@ Furthermore, the implementation of Modern Portfolio Theory and machine learning-
 
 Overall, this project highlights the significant value of leveraging quantitative analytics and AI-driven methodologies in contemporary portfolio management. The resulting framework not only supports informed investment strategies but also facilitates improved risk-adjusted returns, offering a practical and scalable approach for portfolio managers navigating increasingly complex financial markets.
 
----
-
-If you want, I can also craft a **shorter, punchy version suitable for executive summaries or presentations** that highlights the key achievements in 3–4 sentences. Do you want me to do that?
-
